@@ -6,7 +6,7 @@
 Objective:
 The objective of this project was to gain hands-on experience with Python programming by working with files, lists, and designing/implementing functions. The goal was to develop a program that allows users to analyze headlines from text files, perform specific operations like word search, average character calculations, and write to files. This lab aimed to improve my understanding of file handling, function design, and efficient problem-solving techniques.
 
-Procedure:
+Procedure
 To solve the problem, I started by identifying the user options and breaking the problem into smaller tasks. I wrote the functions for each user option separately and tested them individually to ensure they worked correctly before integrating them into the main program. For example, I created functions for counting headlines with a specific word, calculating averages, and finding the longest and shortest headlines. The main function was designed to tie everything together, providing the user with a menu-driven interface. Key concepts explored included for-loops, string operations, and error handling to ensure user-friendly interactions.
 
 Results:
